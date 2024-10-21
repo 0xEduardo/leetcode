@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://leetcode.com/problemset/all/"><img src="https://i.imgur.com/IsS5xkZ.png" width=80 height=80 title="LeetCode" alt="LeetCode"></a>
 <h1>LeetCode Solutions</h1>
-<span>💡 <i>Solutions to <a href="https://leetcode.com/problemset/all/">LeetCode</a> in Python.
+<span>💡 <i>Solutions to <a href="https://leetcode.com/problemset/all/">LeetCode</a> in Python and Javascript.
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/Solved-4/3328-blue.svg?style=flat-square" alt="Solved Percentage" />
